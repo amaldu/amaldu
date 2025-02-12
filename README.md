@@ -1,6 +1,6 @@
 # Hi there, I'm Ana 👋
 
-** Data Scientist / Machine Learning Engineer**
+**Data Scientist / Machine Learning Engineer**
 
 I use python and SQL to explain how some things work, predict how some other things are and teach machines how to have a chat with you.
 
