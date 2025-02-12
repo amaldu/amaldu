@@ -1,7 +1,9 @@
-## Hi there 👋
+# Hi there, I'm Ana 👋
 
-<!--
-**amaldu/amaldu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Data Scientist / Machine Learning Engineer**
+
+I use python and SQL to explain how some things work, predict how some other things are and teach machines how to have a chat with you.
+
 
 Here are some ideas to get you started:
 
