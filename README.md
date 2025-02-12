@@ -3,7 +3,14 @@
 **Data Scientist / Machine Learning Engineer**
 
 I use python and SQL to explain how some things work, predict how some other things are and teach machines how to have a chat with you.
+---
+## I love working with
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amaldu)](https://git.io/streak-stats)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 Here are some ideas to get you started:
 
