@@ -19,7 +19,9 @@ I use python and SQL to explain how some things work, predict how some other thi
 <br><br>
 #
 
-![amaldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
+![amaldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaldu&theme=cobalt&show_icons=true)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
