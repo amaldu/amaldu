@@ -3,6 +3,7 @@
 **Data Scientist / Machine Learning Engineer**
 
 I use python and SQL to explain how some things work, predict how some other things are and teach machines how to have a chat with you.
+
 ---
 
 ## :memo: Blog
@@ -36,7 +37,6 @@ I use python and SQL to explain how some things work, predict how some other thi
 - 🤔 I’m looking for help with ... just ping me, let's see what I can do ☺️
 - 📫 Reach me out on anamld62@gmail.com
 - ⚡ Fun fact: my favourite animal is the owl even though I'm a morning person ☕
-
 
 
 ## 📈 Activity stats
