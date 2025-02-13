@@ -4,7 +4,7 @@
 
 I use python and SQL to explain how some things work, predict how some other things are and teach machines how to have a chat with you.
 ---
-## I love working with
+## 💻 I love working with
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Pycharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
@@ -17,8 +17,9 @@ I use python and SQL to explain how some things work, predict how some other thi
 <img align="left" alt="PyTorch" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
 
 <br><br>
+#
 
-
+![amaldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=cobalt&show_icons=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
