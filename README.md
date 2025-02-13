@@ -33,13 +33,13 @@ I use python and SQL to explain how some things work, predict how some other thi
 
 ---
 ## :🙋‍♀️: Projects
-[Fraud Detection Project] (https://github.com/amaldu/fraud_detection)
+![Fraud Detection Project](https://github.com/amaldu/fraud_detection)
 In this project you can find the analysis, experimentation, orchestration and monitorization of a fraud detection classifier. 
 
-[NLP spam classifier] (https://github.com/amaldu/AntiSpam-NLP-Pipeline)
+![NLP spam classifier](https://github.com/amaldu/AntiSpam-NLP-Pipeline)
 In this project you can find the analysis, experimentation and training pipeline of a spam classifier using traditional NLP and Machine Learning.
 
-[Interview Preparation bot] (https://github.com/amaldu/interview_preparation_bot)
+![Interview Preparation bot](https://github.com/amaldu/interview_preparation_bot)
 In this project I designed and implemented a chatbot that supports you while reviewing Machine Learning and Deep Learning concepts for your technical interviews. 
 
 
