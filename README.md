@@ -3,6 +3,7 @@
 **Data Scientist / Machine Learning Engineer**
 
 I use python and SQL to explain how some things work, predict how some other things are and teach machines how to have a chat with you.
+
 ---
 ## 💻 I love working with
 <img align="left" alt="Visual Studio Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
