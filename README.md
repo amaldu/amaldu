@@ -4,12 +4,6 @@
 
 I use python and SQL to explain how some things work, predict how some other things are going to be and teach machines how to have a chat with you.
 
----
-
-## :memo: Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 ## 💻 My toolbox
@@ -37,7 +31,13 @@ I use python and SQL to explain how some things work, predict how some other thi
 - 📫 Contact me on [my e-mail](mailto:anamld62@gmail.com)
 - ⚡ Fun fact: my favourite animal is the owl even though I'm a morning person ☕
 
-# 
+
+---
+## :memo: Blog
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 
 ## 📈 Activity stats
 ![amaldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaldu&theme=cobalt&show_icons=true)
