@@ -40,10 +40,10 @@ I use python and SQL to explain how some things work, predict how some other thi
 ---
 
 ## 📈 Activity stats
-![amaldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaldu&theme=cobalt&show_icons=true)
+# ![amaldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaldu&theme=cobalt&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
+# ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amaldu.amaldu)
+# ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amaldu.amaldu)
 
 
