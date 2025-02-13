@@ -32,7 +32,7 @@ I use python and SQL to explain how some things work, predict how some other thi
 - ⚡ Fun fact: my favourite animal is the owl even though I'm a morning person ☕
 
 ---
-## :🙋‍♀️: Projects
+## 🙋‍♀️ Projects
 ![Fraud Detection Project](https://github.com/amaldu/fraud_detection)
 In this project you can find the analysis, experimentation, orchestration and monitorization of a fraud detection classifier. 
 
