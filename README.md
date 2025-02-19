@@ -55,6 +55,7 @@ In this project I designed and implemented a chatbot that supports you while rev
 
 
 
+<!-- 
 ## 📈 Activity stats
 ![amaldu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaldu&theme=cobalt&show_icons=true)
 
@@ -62,6 +63,7 @@ In this project I designed and implemented a chatbot that supports you while rev
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amaldu.amaldu) 
 
+-->
 
 
 
