@@ -29,7 +29,7 @@ I use python and SQL to explain how some things work, predict how some other thi
 - 👯 I’m looking to collaborate on automatizing projects that need a bit of LLMOps
 - 🤔 I’m looking for help with ... just ping me, let's see what I can do ☺️
 - 📫 Contact me on [my e-mail](mailto:anamld62@gmail.com)
-- ⚡ Fun fact: my favourite animal is the owl even though I'm a morning person ☕
+
 
 <!-- 
 ---
